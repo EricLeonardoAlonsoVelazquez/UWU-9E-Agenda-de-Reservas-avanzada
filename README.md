@@ -22,3 +22,6 @@ Reglas de negocio:
 
 Objetivo técnico:
 - Evaluar validaciones complejas, manejo de estados y diseño RESTful.
+
+
+![Alt Text](https://media.tenor.com/ZdsIbPaZn64AAAAM/verycat-cateat.gif)

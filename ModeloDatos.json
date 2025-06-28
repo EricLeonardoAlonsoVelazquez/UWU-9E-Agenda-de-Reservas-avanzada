@@ -1,0 +1,39 @@
+{
+  "reservas": {
+    "estado": "",
+    "fecha": "",
+    "hora_fin": "",
+    "hora_inicio": "",
+    "id": 1,
+    "sala_id": "",
+    "usuario_id": ""
+  },
+  "salas": {
+    "capacidad": "",
+    "id": "",
+    "nombre": ""
+  },
+  "usuarios": {
+    "MJbhoaN238RCLeqKSqIXNXICReY2": {
+      "email": "ee@gmail.com",
+      "fechaRegistro": 1750906479524,
+      "nombre": "Eric",
+      "rol": "usuario",
+      "ultimoAcceso": 1750906479524
+    },
+    "VGrVwoqpIIZv1m3wln0fZgyWl5t2": {
+      "email": "aaaa@gmail.com",
+      "fechaRegistro": 1750575321678,
+      "nombre": "Eric",
+      "rol": "usuario",
+      "ultimoAcceso": 1750575321678
+    },
+    "eSAMRwzEiLS4isidYZvGGJJxdAx1": {
+      "email": "e@gmail.com",
+      "fechaRegistro": 1750611703961,
+      "nombre": "Eric",
+      "rol": "usuario",
+      "ultimoAcceso": 1750611703961
+    }
+  }
+}
